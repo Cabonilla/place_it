@@ -8,7 +8,7 @@ Future updates will include small tooltips to guide through the UI, tool for blo
 
 # What I Learned
 
-* The power of newmorphism design. 
+* The power of neumorphism design. 
 * Using JS libraries.
 * App refactoring.
 * Downloading web elements.
